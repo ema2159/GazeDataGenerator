@@ -1,0 +1,8 @@
+#+TITLE: Eye tracking gaze data generator
+#+CREATOR: Emmanuel Bustos T.
+#+OPTIONS: toc:nil
+
+* Description
+  This repository consists of a Jupyter notebook which contains a configurable script for generating eye tracking gaze data using random number generators.
+  You can check it [[file:gaze_data_generator.ipynb][here]].
+
